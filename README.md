@@ -17,6 +17,14 @@ PART II: SOLUTION FOR INVERSE LAPLACE TRANSFORM
 
 ###
 
+ASSIGNMENT 2
+
+###
+
+PART 2: SOLUTION FOR LINVERSE LAPLACE TRANSFORM
+
+###
+
 ![ASS1](https://github.com/ImangTimang/CSE_Laplace-InverseLaplace_MEXE_3201_Group11_2024/blob/main/Assignment%202/Part%201.jpg?raw=true)
 
 ###
